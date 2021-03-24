@@ -1,0 +1,20 @@
+body {
+background-color: black;
+width: 600px;
+color: chartreuse;
+margin: 0 auto;
+padding: 15px;
+border-width: 10px;
+border-radius: 25px;
+border-style: double;
+border-color: red;
+
+}
+
+.page-title {
+font-size: 50px;
+font-weight: 250;
+margin: 20px 50px 35px 50px;
+position: relative;
+
+}
